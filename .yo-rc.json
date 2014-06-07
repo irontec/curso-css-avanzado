@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "CSS",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "irontec",
+    "githubRepository": "curso-css-avanzado"
+  }
+}
