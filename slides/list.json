@@ -1,1 +1,192 @@
-["index.md"]
+[
+    "index.md",
+    [
+        "curso.md",
+        "curso.impartido.md",
+        "curso.dirigido.md",
+        "curso.objetivos.md",
+        "curso.esquema.md"
+    ], [
+        "historia.md",
+        "historia.perspectiva.md",
+        "historia.longtime.ago.md",
+        "historia.longtime.ago.2.md",
+        "historia.longtime.ago.3.md",
+        "historia.longtime.ago.4.md",
+        
+        "css.zen.garden.md",
+        "css.zen.garden.1.md",
+        "css.zen.garden.2.md",
+        "css.zen.garden.3.md",
+        "css.zen.garden.4.md",
+
+        "historia-html5.md",
+        "historia-html5-rocks.md",
+        "historia-html.md",
+        "historia-html.tree.md",
+
+        "css.intro.md",
+        "css.regla.md",
+        
+        "css.origenes.md",
+        
+        "css.shorthand.md",
+        "css.shorthand.2.md",
+        "css.shorthand.order.md",
+
+        "css.modules.md",
+        "css.state.of.art.md",
+
+        "css.future.md"
+    ], [
+        "selectores.md",
+
+        "selectores.css1.md",
+        "selectores.css4.md",
+
+        "selectores.elementales.md",
+        "selectores.elementales.ejemplos.md",
+
+        "selectores.linguisticos.md",
+        "selectores.linguisticos.ejemplos.md",
+
+        "selectores.atributos.md",
+        "selectores.atributos2.md",
+        "selectores.atributos.ejemplos.md",
+
+        "selectores.atributos.2.md",
+        "selectores.atributos.ejemplos.2.md",
+
+
+        "selectores.pseudo-clases.md",
+        "selectores.pseudo-elementos.md",
+
+        "selectores.usuario.md",
+
+        "selectores.estructurales.md",
+        "selectores.estructurales.2.md",
+        "selectores.estructurales.3.md",
+        "selectores.estructurales.ejemplos.md",
+        
+        "selectores.combinadores.md",
+        "selectores.combinadores.2.md",
+        "selectores.combinadores.3.md",
+        "selectores.combinadores.ejemplos.md",
+
+        "media.queries.md",
+        "media.queries.2.md",
+        "media.queries.ejemplos.md"
+    ], [
+        "cascada.md",
+        "cascada.intro.md",
+        "especificidad.algoritmo.md",
+        "especifidad.calculando.md",
+        "especifidad.ejemplo.md",
+        "especifidad.ejercicio.md",
+        "especifidad.ejercicio.resultado.md",
+        "especifidad.problemas.md",
+        "herencia.md",
+        "herencia.problema.md",
+        "herencia.problema.2.md",
+        "valores.calculo.md",
+        "valores.calculo2.md",
+        "valores.ejemplo.md"
+    ], [
+        "boxmodel.md",
+
+        "reflow.html",
+        "reflow2.html",
+
+        "display.md",
+        "display.intro.md",
+        "display.valores.md",
+        "display.2.md",
+        "display.2.image.md",
+        "display.anonymous.md",
+        "display.3.md",
+        "display.3.image.md",
+        "display.4.md",
+        "display.4.image.md",
+
+        "boxmodel.intro.md",
+
+        "margin.padding.md",
+        "margin.padding.2.md",
+        "margin.padding.3.md",
+        "margin.padding.4.md",
+        "margin.padding.5.md",
+
+        "position.md",
+        "position.1.md",
+        "position.2.md",
+        "position.3.md",
+        "position.4.md",
+        "position.5.md",
+        "position.6.md",
+
+        "float.md",
+        "float.historia.md",
+        "float.comportamiento.1.md",
+        "float.comportamiento.2.md",
+        "float.comportamiento.3.md",
+        "float.comportamiento.4.md",
+        "float.comportamiento.5.md",
+        "float.comportamiento.6.md",
+        "float.comportamiento.7.md",
+        "float.comportamiento.8.md",
+        "float.comportamiento.9.md",
+        "float.comportamiento.10.md",
+        
+        "tamanyo.md",
+        "tamanyo.1.md",
+        "tamanyo.valores.md",
+        "tamanyo.valores.2.md",
+        "tamanyo.valores.3.md",
+        "tamanyo.valores.4.md",
+
+        "overflow.md",
+        "overflow.2.md",
+        "overflow.3.md",
+
+        "baseline.md",
+        "baseline.2.md",
+        "baseline.3.md",
+        "baseline.4.md",
+        "baseline.5.md",
+
+        "css3.md",
+
+        "mask.md",
+        "mask.2.md",
+        "mask.3.md",
+        "mask.4.md"
+    ], [
+        "limitaciones.md",
+        "limitaciones.horizontalidad.md",
+        "limitaciones.valores.md",
+        "limitaciones.intrinsecos.md",
+        "limitaciones.componentes.md",
+        "limitaciones.componentes.2.md",
+        "limitaciones.selectores.md",
+        "limitaciones.centrado.vertical.md"
+    ], [
+        "flex.md",
+        "flex.porques.md",
+        "flex.layout.diagram.md"
+    ], [
+        "transformaciones.md"
+    ], [
+        "animaciones.md",
+        "animaciones.2.md"
+    ], [
+        "layouts.md"
+    ], [
+        "bootstrap.md"
+    ], [
+        "patrones.md"
+    ], [
+        "sass.md"
+    ], [
+        "futuro.md"
+    ]
+]
