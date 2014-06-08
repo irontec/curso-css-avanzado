@@ -47,6 +47,9 @@
         "selectores.elementales.md",
         "selectores.elementales.ejemplos.md",
 
+        "selectores.combinations.md",
+        "selectores.combinations.2.md",
+
         "selectores.linguisticos.md",
         "selectores.linguisticos.ejemplos.md",
 
@@ -57,11 +60,15 @@
         "selectores.atributos.2.md",
         "selectores.atributos.ejemplos.2.md",
 
-
         "selectores.pseudo-clases.md",
-        "selectores.pseudo-elementos.md",
+        "selectores.pseudo-clases.2.md",
+        "selectores.pseudo-clases.3.md",
 
         "selectores.usuario.md",
+
+        "selectores.input.md",
+        "selectores.input.2.md",
+        "selectores.input.3.md",
 
         "selectores.estructurales.md",
         "selectores.estructurales.2.md",
