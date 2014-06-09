@@ -1,0 +1,1 @@
+![](assets/bem.2.png)
