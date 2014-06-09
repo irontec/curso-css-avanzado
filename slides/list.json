@@ -64,6 +64,7 @@
 
         "selectores.pseudo-clases.md",
         "selectores.pseudo-clases.2.md",
+        "selectores.pseudo-clases.2a.md",
         "selectores.pseudo-clases.3.md",
 
         "selectores.usuario.md",
@@ -181,23 +182,82 @@
         "limitaciones.intrinsecos.md",
         "limitaciones.componentes.md",
         "limitaciones.componentes.2.md",
-        "limitaciones.selectores.md",
-        "limitaciones.centrado.vertical.md"
+        "limitaciones.selectores.md"
     ], [
         "flex.md",
         "flex.porques.md",
-        "flex.layout.diagram.md"
+        "flex.layout.diagram.md",
+        "flex.display.md",
+        "flex.flex-direction.md",
+        "flex.justify.content.md",
+        "flex.justify.content.image.md",
+        "flex.align.items.md",
+        "flex.align.items.2.md",
+        "flex.align.items.image.md",
+        "flex.self-align.md",
+        "flex.flex.md",
+        "flex.grow.shrink.md",
+        "flex.grow.shrink.image.1.md",
+        "flex.grow.shrink.image.2.md",
+        "flex.basis.md",
+        "flex.order.md",
+        "flex.ignore.md",
+        "flex.demo.md",
+        "flex.demo.animation.md"
     ], [
-        "transformaciones.md"
+        "transformaciones.md",
+        "transformaciones.1.md",
+        "transformaciones.2.md",
+        "transformaciones.3.md",
+        "transformaciones.4.md",
+        "transformaciones.42.md",
+        "transformaciones.43.md",
+        "transformaciones.44.md",
+        "transformaciones.45.md",
+        "transformaciones.5.md"
     ], [
         "animaciones.md",
-        "animaciones.2.md"
+        "animaciones.2.md",
+        "animaciones.3.md",
+        "animaciones.4.md",
+        "animaciones.5.md"
+    ], [
+        "patrones.md",
+
+        "pattern.1.md",
+        "pattern.2.md",
+        "pattern.3.md",
+        "pattern.4.md",
+        "pattern.5.md",
+        "pattern.5a.md",
+        "pattern.5b.md",
+        "pattern.6.md",
+        "pattern.7.md",
+        "pattern.8.md",
+
+        "bem.md",
+        "bem.1.md",
+        "bem.2.md",
+        "bem.3.md",
+        "bem.4.md",
+        "bem.5.md",
+        "bem.6.md",
+        "bem.7.md",
+        "bem.8.md",
+        "bem.9.md",
+
+        "oocss.md",
+        "oocss.objetivos.md",
+        "oocss.guidelines.md",
+        "oocss.contenedor.contenido.md",
+        "oocss.structure.vs.skin.md",
+        "oocss.reutilizable.md",
+        "oocss.ventajas.md",
+        "oocss.transparencias.md"
     ], [
         "layouts.md"
     ], [
         "bootstrap.md"
-    ], [
-        "patrones.md"
     ], [
         "sass.md"
     ], [

@@ -1,0 +1,2 @@
+
+![](assets/vertical.aligment.png)

@@ -1,6 +1,11 @@
-### Centrado vertical
- 
+## Centrado vertical general
+
 ```css
+.block {
+  text-align: center;
+}
+ 
+/* The ghost, nudged to maintain perfect centering */
 .block:before {
   content: '';
   display: inline-block;
@@ -8,7 +13,7 @@
   vertical-align: middle;
 }
 
-.centered {
+.block > * {
   display: inline-block;
   vertical-align: middle;
   width: 300px;
