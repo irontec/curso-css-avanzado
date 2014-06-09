@@ -1,11 +1,11 @@
-Una cuestión fundamental
+#### Problemas de especificidad
 
-If not carefully considered, specificity can come back to haunt you and lead you to unwittingly transform your style sheets into a complex hierarchy of unnecessarily complicated rules.
+- Si no se considera adecuadamente, la specificidad puede convertir las hojas de estilo en una jerarquía compleja de reglas inecesariamente complejas.
 
-You can follow a few guidelines to avoid major issues:
+- Guía para evitar la mayoría de los problemas:
 
-When starting work on the CSS, use generic selectors, and add specificity as you go along;
+    - Usar selectores genéricos.
 
-Using advanced selectors doesn’t mean using unnecessarily complicated ones;
+    - Usar especificidad según se vaya requiriendo.
 
-Rely more on specificity than on the order of selectors, so that your style sheets are easier to edit and maintain (especially by others).
+    - Usar selectores avanzados no implica necesariamente complejidad.

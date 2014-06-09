@@ -1,26 +1,19 @@
 - ```aspect-ratio```
-    ```
-    @media screen and (min-aspect-ratio: 1/1) { ... }
-    ```
+    
+    <pre><code>@media screen and (min-aspect-ratio: 1/1) { ... }</code></pre>
 
 - ```height```
 
-    ```
-    @media handheld and (min-width: 20em), screen and (min-width: 20em) { ... }
-    ```
-    ```
-    <link rel="stylesheet" media="screen and (max-device-height: 799px)" />
-    ```
+    <pre><code>@media handheld and (min-width: 20em), screen and (min-width: 20em) { ... }</code></pre>
 
-- ```orientation```
+    <pre><code><link rel="stylesheet" media="screen and (max-device-height: 799px)" /></code></pre>
+
+- ```orientation```.
     
-    ```
-    @media all and (orientation: portrait) { ... }
-    ```
-- ```resolution```
+    <pre><code>@media all and (orientation: portrait) { ... }</code></pre>
 
-    ```
-    @media print and (min-resolution: 300dpi) { ... }
-    ```
+- ```resolution```.
+
+    <pre><code>@media print and (min-resolution: 300dpi) { ... }</code></pre>
 
 https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries
