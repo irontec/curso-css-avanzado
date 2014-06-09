@@ -19,6 +19,7 @@
         "css.zen.garden.2.md",
         "css.zen.garden.3.md",
         "css.zen.garden.4.md",
+        "css.zen.garden.5.md",
 
         "historia-html5.md",
         "historia-html5-rocks.md",
@@ -49,6 +50,7 @@
 
         "selectores.combinations.md",
         "selectores.combinations.2.md",
+        "selectores.combinations.ejemplos.md",
 
         "selectores.linguisticos.md",
         "selectores.linguisticos.ejemplos.md",
@@ -86,12 +88,15 @@
     ], [
         "cascada.md",
         "cascada.intro.md",
+        
         "especificidad.algoritmo.md",
+        
         "especifidad.calculando.md",
         "especifidad.ejemplo.md",
         "especifidad.ejercicio.md",
         "especifidad.ejercicio.resultado.md",
-        "especifidad.problemas.md",
+        "especificidad.problemas.md",
+
         "herencia.md",
         "herencia.problema.md",
         "herencia.problema.2.md",
@@ -151,6 +156,9 @@
         "tamanyo.valores.3.md",
         "tamanyo.valores.4.md",
 
+        "boxsizing.md",
+        "boxsizing.2.md",
+
         "overflow.md",
         "overflow.2.md",
         "overflow.3.md",
@@ -165,8 +173,7 @@
 
         "mask.md",
         "mask.2.md",
-        "mask.3.md",
-        "mask.4.md"
+        "mask.3.md"
     ], [
         "limitaciones.md",
         "limitaciones.horizontalidad.md",
