@@ -1,0 +1,18 @@
+#### scss
+
+```
+$blue: #3bbfce;
+$margin: 16px;
+ 
+.content-navigation {
+  border-color: $blue;
+  color:
+    darken($blue, 20%);
+}
+ 
+.border {
+  padding: $margin / 2;
+  margin: $margin / 2;
+  border-color: $blue;
+}
+```

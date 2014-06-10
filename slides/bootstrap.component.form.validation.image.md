@@ -1,0 +1,1 @@
+![](assets/bootstrap.input.validation.png)

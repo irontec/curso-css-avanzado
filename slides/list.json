@@ -259,11 +259,125 @@
         "oocss.ventajas.contras.md",
         "oocss.transparencias.md"
     ], [
-        "layouts.md"
+        "layouts.md",
+        "layout.templates.md",
+        "grids.md",
+        "grid.1.md",
+        "grid.2.md",
+        "grid.3.md",
+        "grid.4.md",
+        "grid.5.md",
+        "grid.6.md",
+        "grid.7.md"
     ], [
-        "bootstrap.md"
+        "bootstrap.md",
+
+        "bootstrap.slogan.md",
+
+        "bootstrap.normalize.md",
+
+        "bootstrap.componentes.md",
+        
+        "bootstrap.componentes.lista.md",
+
+        "bootstrap.component.pagination.image.md",
+        "bootstrap.component.alert.imagen.md",
+        "bootstrap.component.badgets.image.md",
+
+        "bootstrap.component.progress.image.md",
+        "bootstrap.component.progress.md",
+
+        "bootstrap.component.form.image.md",
+        "bootstrap.component.form.md",
+
+        "bootstrap.component.form.validation.image.md",
+        "bootstrap.component.form.validation.md",
+
+        "bootstrap.colores.md",
+        "bootstrap.colores.2.botones.md",
+        "bootstrap.colores.2.botones.imagenes.md",
+        "bootstrap.colores.3.md",
+        "bootstrap.colores.4.md",
+        "bootstrap.colores.5.md",
+
+        "bootstrap.grid.md",
+        "bootstrap.grid.system.md",
+        "bootstrap.grid.table.md",
+        "bootstrap.grid.1.md",
+        "bootstrap.grid.2.md",
+        "bootstrap.grid.3.md",
+        "bootstrap.grid.4.md",
+        "bootstrap.grid.5.md",
+        "bootstrap.grid.6.md",
+        "bootstrap.grid.7.md",
+
+        "bootstrap.configuracion.grid.md",
+        "bootstrap.configuracion.container.md",
+
+        "bootstrap.personalizacion.md",
+        "bootstrap.personalizacion.2.md",
+
+        "bootstrap.problemas.ie.md",
+        "bootstrap.problemas.ie.2.md",
+        "bootstrap.problemas.ie.3.md"
     ], [
-        "sass.md"
+        "sass.md",
+
+        "sass.1.md",
+
+        "sass.2.caraceristicas.md",
+        "sass.3.sintaxis.md",
+        "sass.3.sintaxis.sass.md",
+        "sass.3.sintaxis.scss.md",
+
+        "sass.comentarios.md",
+        
+        "sass.reglas.anidadas.md",
+        "sass.reglas.anidadas.2.md",
+        
+        "sass.referencia.padre.md",
+        "sass.referencia.padre.2.md",
+        "sass.referencia.padre.3.md",
+
+        "sass.propiedades.anidadas.md",
+        "sass.propiedades.anidadas.2.md",
+        
+        "sass.variables.md",
+
+        "sass.tipos.md",
+        "sass.tipos.2.md",
+        "sass.operaciones.md",
+
+        "sass.interpolacion.md",
+        
+        "sass.directiva.extend.md",
+        "sass.directiva.extend.2.md",
+        "sass.directiva.extend.3.md",
+
+        "sass.directiva.media.md",
+        "sass.media.ejemplo.md",
+
+        "sass.directiva.import.md",
+        "sass.directiva.import.2.md",
+        "sass.directiva.import.partials.md",
+
+        "sass.directiva.if.md",
+
+        "sass.directivas.for.md",
+        "sass.bucle.ejemplo.md",
+
+        "sass.directiva.each.md",
+        "sass.listas.ejemplo.md",
+
+        "sass.directiva.while.md",
+
+        "sass.mixins.md",
+        "sass.mixin.argumentos.variables.md",
+        "sass.mixin.ejemplo.md",
+
+        "sass.funciones.md",
+
+        "sass.libro.castellano.md"
     ], [
         "futuro.md"
     ]

@@ -1,0 +1,1 @@
+![](assets/grid6.png)
