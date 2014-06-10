@@ -1,3 +1,3 @@
 - Se transforman en elementos de bloque.
 
-    Si antes era un elemento de bloque dejará de expandirse horizontalmente.
+    Aunque permitirá elementos a su lado, a diferencia que un bloque normal.
