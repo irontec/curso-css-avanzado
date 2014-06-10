@@ -14,11 +14,11 @@
 
 7. Transiciones y Animaciones.
     
-8. Recetas de layouts.
+8. Patrones de diseño y buenas prácticas.
 
-9. Twitter Bootstrap.
+9. Recetas de layouts.
 
-10. Patrones de diseño y buenas prácticas.
+10. Twitter Bootstrap.
 
 11. Vitaminando y mineralizando CSS hoy con SASS y LESS.
 

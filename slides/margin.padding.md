@@ -4,6 +4,6 @@
 
 - ```Padding```
 
-    - Espacio hasta el borde.
+    - Espacio interior, espacio hasta el borde.
     - Espacio dibujado con el fondo.
     - Sólo acepta valores positivos.

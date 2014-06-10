@@ -11,19 +11,4 @@
 
 - Un modulo existente puede servir como base para futuras páginas.
 
-- El caracter modular dificulta romper el comportamiento al ser extendidas o modificadas por un nuevo desarrollador.
-
-#### Contras
-
-- Incrementaremos la cantidad de markup en el HTML, pero será menos significativo.
-
-#### Hojas de estilo mantenibles
-
-- En vez de mantener una guerra de especificidades, podremos mantener un conjunto de modulos donde la cascada natural cumple un rol importante.
-
-- Añadir nuevas reglas, no será añadir nuevas reglas al final de la hoja de estilo sin tener en cuenta que había previamente.
-
-
-
-
-
+- El carácter modular dificulta romper el comportamiento al ser extendidas o modificadas por un nuevo desarrollador.

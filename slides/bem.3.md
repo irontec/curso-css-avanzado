@@ -7,6 +7,7 @@
 
 
 - ```.block```
+
     Representa abstractamente un componente.
 
 - ```.block__element```

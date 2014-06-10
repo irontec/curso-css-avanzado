@@ -125,6 +125,7 @@
 
         "margin.padding.md",
         "margin.padding.2.md",
+        "margin.padding.2a.md",
         "margin.padding.3.md",
         "margin.padding.4.md",
         "margin.padding.5.md",
@@ -249,10 +250,13 @@
         "oocss.md",
         "oocss.objetivos.md",
         "oocss.guidelines.md",
+        "oocss.guidelines.2.md",
         "oocss.contenedor.contenido.md",
         "oocss.structure.vs.skin.md",
         "oocss.reutilizable.md",
+        "oocss.mantenibles.md",
         "oocss.ventajas.md",
+        "oocss.ventajas.contras.md",
         "oocss.transparencias.md"
     ], [
         "layouts.md"
