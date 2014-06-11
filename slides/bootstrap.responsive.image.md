@@ -1,1 +1,0 @@
-![](assets/responsive.png)

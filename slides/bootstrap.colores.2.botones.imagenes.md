@@ -1,1 +1,0 @@
-![](assets/bootstrap.botones.colores.png)

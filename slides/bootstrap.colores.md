@@ -1,6 +1,8 @@
 #### Colores
 
-Podemos obtener diferentes versiones (y colores) de algunos componentes añadiendo los sufijos
+- Podemos obtener diferentes versiones (y colores) de algunos componentes añadiendo los sufijos
+
+![](assets/bootstrap.botones.colores.png)
 
 - default
 - primary (azul)
