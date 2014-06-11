@@ -5,18 +5,19 @@ Flechas CSS
 ```
 .arrow_box {
     position: relative;
-    background: #88b7d5;
-    border: 4px solid #c2e1f5;
+    border: 1px solid black;
 }
-.arrow_box:after, .arrow_box:before {
-    right: 100%;
-    top: 50%;
+
+.arrow_box:before {
+    top: 50%; right: 100%;
     border: solid transparent;
     content: " ";
-    height: 0;
-    width: 0;
+    height: 0; width: 0;
+    border-color: transparent;
+    border-right-color: black;
+    border-width: 36px;
+    margin-top: -36px;
     position: absolute;
-    pointer-events: none;
 }
 ```
 

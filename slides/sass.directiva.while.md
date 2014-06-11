@@ -1,0 +1,9 @@
+### Directiva @while
+
+```
+$i: 6;
+@while $i > 0 {
+  .item-#{$i} { width: 2em * $i; }
+  $i: $i - 2;
+}
+```
