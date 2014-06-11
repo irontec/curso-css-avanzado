@@ -1,4 +1,6 @@
-- botones
+#### Ejemplo colores botones
+
+![](assets/bootstrap.botones.colores.png)
 
 ```
 <button type="button" class="btn btn-default">Default</button>

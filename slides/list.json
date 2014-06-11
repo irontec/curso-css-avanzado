@@ -274,15 +274,13 @@
 
         "bootstrap.slogan.md",
 
+        "bootstrap.posee.md",
+
         "bootstrap.normalize.md",
-
-        "bootstrap.componentes.md",
         
-        "bootstrap.componentes.lista.md",
-
-        "bootstrap.component.pagination.image.md",
-        "bootstrap.component.alert.imagen.md",
-        "bootstrap.component.badgets.image.md",
+        "bootstrap.viewport.md",
+        
+        "bootstrap.media.md",
 
         "bootstrap.component.progress.image.md",
         "bootstrap.component.progress.md",
@@ -295,9 +293,7 @@
 
         "bootstrap.colores.md",
         "bootstrap.colores.2.botones.md",
-        "bootstrap.colores.2.botones.imagenes.md",
         "bootstrap.colores.3.md",
-        "bootstrap.colores.4.md",
         "bootstrap.colores.5.md",
 
         "bootstrap.grid.md",
@@ -316,6 +312,8 @@
 
         "bootstrap.personalizacion.md",
         "bootstrap.personalizacion.2.md",
+
+        "bootstrap.desactivar.responsive.md",
 
         "bootstrap.problemas.ie.md",
         "bootstrap.problemas.ie.2.md",
@@ -378,7 +376,5 @@
         "sass.funciones.md",
 
         "sass.libro.castellano.md"
-    ], [
-        "futuro.md"
     ]
 ]

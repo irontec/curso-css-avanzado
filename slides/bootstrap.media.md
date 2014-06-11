@@ -1,9 +1,6 @@
-### Grid system
- 
-- Grid responsive
-     - Escala hasta 12 columnas según crece el tamaño del viewport.
+### Media queries
 
-- Media queries
+- Tendremos reglas diferentes en función de la anchura de la ventana.
 
 ```
 /* Small devices (tablets, 768px and up) */
